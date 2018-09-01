@@ -4,10 +4,9 @@ Changelog
 0.7.0 (unreleased)
 ~~~~~~~~~~~~~~~~~~
 
-- Nothing changed yet.
+- Eve 0.7.x support.
 
-
-0.6.0 (2018-08-15)
+0.6.0 (unreleased)
 ~~~~~~~~~~~~~~~~~~
 
 - Fix querying of list relations using `where` [Dominik Kellner]
